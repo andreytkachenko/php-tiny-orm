@@ -1,5 +1,5 @@
 # PHP Tiny ORM
-
+## Just implement those methods and use ORM
 ```
     protected function executeSelectQuery(array $select, $from, $fromAs, array $joins, array $whereSql, array $orderBySql, $limit, $offset)
     {
